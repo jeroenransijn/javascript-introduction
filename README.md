@@ -7,22 +7,25 @@
 ## Getting started
 
 - [Configure Atom to be Xcode for JavaScript](docs/configuring-atom.md)
-- [A re-introduction to JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript)
+- [Practical JavaScript (beginner tutorials/videos/lectures)](http://watchandcode.com/courses/practical-javascript)
 
-## The best resources on learning JS
+## The best resources on JavaScript
 
 These websites are basically the docs for JS.
 
-- [Learn X in Y minutes](https://learnxinyminutes.com/docs/javascript/)
-- [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
-- [Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-- [JavaScript Allongé, the "Six" Edition](https://leanpub.com/javascriptallongesix/read)
-- [JavaScript Design Patterns, little outdated but solid](https://addyosmani.com/resources/essentialjsdesignpatterns/book/index.html)
-- [Node School](http://nodeschool.io/)
-- [Node API reference](https://nodejs.org/api/)
+- [Learn X in Y minutes (language overview)](https://learnxinyminutes.com/docs/javascript/)
+- [You Don't Know JS (free book/tutorials)](https://github.com/getify/You-Dont-Know-JS)
+- [A re-introduction to JavaScript (article)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript)
+- [Mozilla Developer Network (reference/tutorials)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+- [JavaScript Allongé, the "Six" Edition (free book)](https://leanpub.com/javascriptallongesix/read)
+- [Eloquent JavaScript (free book)](http://eloquentjavascript.net/)
+- [JavaScript Design Patterns (reference/tutorials)](https://addyosmani.com/resources/essentialjsdesignpatterns/book/index.html)
+- [Node School (tutorials)](http://nodeschool.io/)
+- [Node API (reference)](https://nodejs.org/api/)
 
 ## Explore frameworks, articles and awesome resources
 
+- [ES6 resources](https://github.com/ericdouglas/ES6-Learning)
 - [GitHub Awesome lists](https://github.com/sindresorhus/awesome#front-end-development)
 - [TodoMVC, Helping you select a framework](http://todomvc.com/)
 - [Webpack demos](https://github.com/ruanyf/webpack-demos)
