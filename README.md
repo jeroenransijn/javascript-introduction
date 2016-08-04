@@ -17,6 +17,7 @@ These websites are basically the docs for JS.
 - [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
 - [Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 - [JavaScript Allongé, the "Six" Edition](https://leanpub.com/javascriptallongesix/read)
+- [JavaScript Design Patterns, little outdated but solid](https://addyosmani.com/resources/essentialjsdesignpatterns/book/index.html)
 - [Node School](http://nodeschool.io/)
 - [Node API reference](https://nodejs.org/api/)
 
