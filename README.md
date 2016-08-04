@@ -23,6 +23,7 @@ These websites are basically the docs for JS.
 ## Explore frameworks, articles and awesome resources
 
 - [GitHub Awesome lists](https://github.com/sindresorhus/awesome#front-end-development)
+- [TodoMVC, Helping you select a framework](http://todomvc.com/)
 - [Webpack demos](https://github.com/ruanyf/webpack-demos)
 
 ## Utilities
